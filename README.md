@@ -1,6 +1,6 @@
 # XTweak
 
-## XTweak is universal powerful forcefulness kernel tweaker. It will enhance and optimize your android device by adjusting various kernel parameters.
+## XTweak is a powerful and intelligent Kernel Tweaker that optimizes the Android kernel to achieve best experience. It enhances the user experience according to what mode the user chooses by changing a few kernel parameters
 
 ### It has five modes:
 
